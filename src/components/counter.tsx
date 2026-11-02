@@ -31,7 +31,7 @@ export default function Counter({ count: initialCount = 0, onChange }: CounterPr
 
   return (
     <Container className="counter">
-      <Row>
+      <Row className="row">
         <Col xs="auto">
           {/* Miinuspainike */}
           <Button variant="danger" onClick={decrement}>

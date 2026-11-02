@@ -5,5 +5,15 @@
   background-color: #6690fa;
   border: 2px solid black;
   margin-bottom: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.row {
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
 
 }
